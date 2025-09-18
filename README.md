@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HELLHXXounD
-- 👀 I’m interested in ... games developement and designing
-- 🌱 I’m currently learning ... python, c++, animations etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... hellhxxound@gmail.com
+- 👀 into games developement and designing .. digital art and animation
+- 🌱 Working on multiple game projects .. mobile and dekstop .. 
+- 💞️ Gotta rock thtat horror genre ...
+- 📫 Not really here to share but to check whatsup .. get in touch at ... hellhxxound@gmail.com
 
 <!---
 HELLHXXounD/HELLHXXounD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
